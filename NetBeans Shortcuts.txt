@@ -1,0 +1,45 @@
+Shortcuts / Commands
+Shortcut	Function
+psvm	public static void main(String[] args) { }
+en	Enumeration Object
+ex	Exception
+Psf	public static final
+Psfb	public static final boolean B
+Psfi	public static final int I
+Psfs	public static final String
+st	String
+ab	abstract
+as	assert true;
+br	break;
+bo	boolean b
+ca	catch (Exception ex ) { }
+cl	class
+cn	countinue
+db	double d
+df	default:
+eq	equals
+ex	extends
+pu	public
+pr	private
+pe	protected
+th	throws
+fy	finally { }
+im	implements
+ie	interface
+tw	throw new IllegalStateException();
+ir	import
+le	length
+sout	System.out.println(" ");
+soutv	System.out.println("args = " + args);
+wh	while (true) { }
+vo	volatile
+iof	instanceof
+fi	final
+fl	float f
+fa	false
+sh	short s
+psf	private static final
+psfb	private static final boolean B
+psfi	private static final int I
+psfs	private static final String
+bcom	/* */
